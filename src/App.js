@@ -5,9 +5,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-       <h1>    my hasan   </h1>
-       <h2> my age us 25</h2>
-       
+       <h1>   hello world  </h1>
+       <h2>I AM HASAN SATTAR FROM FAISALABAD</h2>
+       <p>
+       THIS IS MY FIRST ASSIGNMENT
+</p>
         
   
     </div>
